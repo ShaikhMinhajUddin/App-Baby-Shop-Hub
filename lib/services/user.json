@@ -1,0 +1,32 @@
+[
+    {
+        "users": [
+            {
+              "name": "John Doe",
+              "email": "john.doe@example.com",
+              "user_id": "user_id_here",
+              "rating": 4,
+              "feedback": "Great service! Will buy again.",
+              "timestamp": "2025-02-26T12:34:56.789Z"
+            }
+          ],
+          "products": [
+            {
+              "id": "product_id",
+              "p_name": "Product Name",
+              "p_image": ["image1", "image2"],
+              "p_price": 100,
+              "p_desc": "Description",
+              "user_ratings": [
+                {
+                  "user_id": "user2",
+                  "rating": 5.0
+                }
+              ],
+              "total_rating": 9.0,
+              "rating_count": 2,
+              "average_rating": 4.5
+            }
+          ]
+    }
+]

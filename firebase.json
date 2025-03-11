@@ -1,0 +1,50 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "baby-shop-842f0",
+          "appId": "1:333674237947:android:6506a4db1c4a835172055e",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "baby-shop-842f0",
+          "configurations": {
+            "android": "1:333674237947:android:6506a4db1c4a835172055e",
+            "web": "1:333674237947:web:a8f6ad580847bdcd72055e",
+            "windows": "1:333674237947:web:dec1373f1eea3c0572055e"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ]
+    },
+    {
+      "source": "babyshop",
+      "codebase": "babyshop",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

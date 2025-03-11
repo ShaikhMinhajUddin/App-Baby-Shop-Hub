@@ -1,0 +1,66 @@
+{
+    "categories": [
+      {
+        "name": "Baby Clothing",
+        "subcategory": [
+          "Newborn Clothing",
+          "Baby Dresses",
+          "Onesies & Rompers",
+          "Sleepwear",
+          "Winter Wear"
+        ]
+      },
+      {
+        "name": "Baby Toys",
+        "subcategory": [
+          "Soft Toys",
+          "Teething Toys",
+          "Educational Toys",
+          "Rattles",
+          "Musical Toys"
+        ]
+      },
+      {
+        "name": "Baby Essentials",
+        "subcategory": [
+          "Diapers & Wipes",
+          "Bottles & Feeding",
+          "Bathing Products",
+          "Baby Monitors",
+          "Pacifiers"
+        ]
+      },
+      {
+        "name": "Nursery",
+        "subcategory": [
+          "Cribs & Beds",
+          "Bedding Sets",
+          "Storage Bins",
+          "Decor Items",
+          "Rocking Chairs"
+        ]
+      },
+      {
+        "name": "Travel & Gear",
+        "subcategory": [
+          "Strollers",
+          "Car Seats",
+          "Diaper Bags",
+          "Carriers",
+          "Travel Cribs"
+        ]
+      },
+      {
+        "name": "Health & Safety",
+        "subcategory": [
+          "Thermometers",
+          "Baby Proofing Items",
+          "First Aid Kits",
+          "Nasal Aspirators",
+          "Baby Skin Care"
+        ]
+      }
+    ]
+   
+  }
+  

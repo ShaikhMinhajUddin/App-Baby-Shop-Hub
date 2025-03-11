@@ -1,0 +1,38 @@
+final List<Map<String, String>> sellerReviews = [
+    {
+      'image': 'assets/images/s1.jpg',
+      'name': 'John Doe',
+      'rating': '4.5',
+      'reviews': 'Great seller! Fast shipping and excellent quality.',
+    },
+    {
+      'image': 'assets/images/s2.jpg',
+      'name': 'Jane Smith',
+      'rating': '4.0',
+      'reviews': 'Good quality, but shipping took longer than expected.',
+    },
+    {
+      'image': 'assets/images/s3.webp',
+      'name': 'Alice Johnson',
+      'rating': '5.0',
+      'reviews': 'Amazing experience, will definitely buy again!',
+    },
+    {
+      'image': 'assets/images/s4.webp',
+      'name': 'Mark Lee',
+      'rating': '3.5',
+      'reviews': 'Item was as described, but customer service could be better.',
+    },
+    {
+      'image': 'assets/images/s5.jpg',
+      'name': 'Chris Martin',
+      'rating': '4.8',
+      'reviews': 'Excellent service, fast shipping, and great communication.',
+    },
+    {
+      'image': 'assets/images/s6.jpg',
+      'name': 'Sophie Turner',
+      'rating': '4.2',
+      'reviews': 'Good product, but packaging could use some improvement.',
+    },
+  ];
